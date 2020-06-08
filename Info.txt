@@ -1,0 +1,21 @@
+How did i figure out this problem?
+
+The first thing that I thought of when trying to figure out how to create
+a program that will enable me to find the most frequenlty appearing 
+word in the book War and Peace was, what format will allow me to easily
+read through it contents? I then downloaded the book in a txt format.
+
+The txt format enables me to read through it without having to do any
+conversions. This then reminded me that node has allows me to read through
+txt files using readFile. Then all i needed to do was use Regex to cater for
+the spaces in between words, create a forEach function that will loop through 
+each word and save it and its occurance in a new array, then sort it in decending
+order and print out the first index in the array.
+
+
+Steps that i used to ensure accuracy.
+
+The only thing i could think of was using a smaller text file with less information.
+I ran this text in the program and it displayed the most frequent word. Which i then 
+could count to verify, i then deleted all instance of that word in the text and ran the 
+program again, the word that was second was now first. This is how i checked for accuracy.
