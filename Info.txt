@@ -11,6 +11,10 @@ txt files using readFile. Then all i needed to do was use Regex to cater for
 the spaces in between words, create a forEach function that will loop through 
 each word and save it and its occurance in a new array, then sort it in decending
 order and print out the first index in the array.
+The resources i used was: 
+https://www.w3schools.com/nodejs/ref_readline.asp
+https://www.w3schools.com/jsref/jsref_map.asp
+https://www.w3schools.com/jsref/jsref_split.asp
 
 
 Steps that i used to ensure accuracy.
