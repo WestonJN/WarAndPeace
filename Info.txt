@@ -1,4 +1,4 @@
-How did i figure out this problem?
+Learning Journey
 
 The first thing that I thought of when trying to figure out how to create
 a program that will enable me to find the most frequenlty appearing 
@@ -17,7 +17,7 @@ https://www.w3schools.com/jsref/jsref_map.asp
 https://www.w3schools.com/jsref/jsref_split.asp
 
 
-Steps that i used to ensure accuracy.
+Steps to ensure accuracy.
 
 The only thing i could think of was using a smaller text file with less information.
 I ran this text in the program and it displayed the most frequent word. Which i then 
